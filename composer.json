@@ -20,7 +20,6 @@
     ],
     "require": {
         "php": ">=5.3.3",
-        "ext-gearman": "*",
 
         "doctrine/doctrine-cache-bundle": "~1.0",
         "doctrine/common": "~2.2",
